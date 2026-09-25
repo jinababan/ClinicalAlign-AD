@@ -1,0 +1,14 @@
+{
+  "data_cutoff": "2026-09-20",
+  "minimum_valid_date": "2000-01-01",
+  "baseline_visit_codes": ["bl"],
+  "baseline_diagnosis_code": 2,
+  "ad_diagnosis_code": 3,
+  "conversion_horizon_days": 1095,
+  "stable_followup_min_days": 1005,
+  "candidate_stable_diagnosis_codes": [1, 2],
+  "strict_stable_diagnosis_codes": [2],
+  "reported_total": 695,
+  "reported_converters": 255,
+  "reported_stable": 440
+}
